@@ -1,0 +1,27 @@
+td{
+    height: 100px;
+    width: 100px;
+}
+.vertical{
+    border-left: 5px groove red;
+    border-right: 5px groove red;
+}
+.horizontal{
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+}
+td:hover{
+    border: 1px groove green;
+}
+table{
+    margin: auto;
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(239, 41, 34);
+    margin-bottom: 180px;
+}
+body{
+    background-color: rgb(232, 221, 96);
+}
